@@ -1,0 +1,11 @@
+flask
+flask-cors
+librosa
+numpy
+pandas
+psycopg2-binary
+boto3
+openai
+python-dotenv
+scikit-learn
+spotipy
